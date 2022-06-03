@@ -1,0 +1,32 @@
+
+.about{
+	justify-content: center;
+	align-items: center;
+	padding: 50px 0px 50px;
+	margin: 0px 30px 0px
+}
+  @media(max-width: 500px){
+  	.abt{
+  		font-size: 10px;
+  	}
+  }
+.for{
+	font-size: 50px;
+	padding: 20px 0px 20px;
+}
+  @media(max-width: 500px){
+  	.for{
+  		font-size: 5px;
+  	}
+  }
+
+.tools{
+	font-size: 20px;
+	padding: 40px 0px 40px;
+}
+.purpose{
+padding: 100px 0px 100px;
+}
+ .why{
+ 	margin: 0px 0px 30px;
+ }
