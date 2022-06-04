@@ -13,8 +13,7 @@ Bootstrap
 
 ### `How to run the app`
 
-Runs the app in the development mode.\
-Open [http://funky800.gihub.io/peddle-assessment-comingsoon] to view
+Runs the app in the development mode.\Open [http://funky800.github.io/peddle-assessment-comingsoon] to view
 
 
 ### `Things to change`
