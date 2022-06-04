@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/peddle-assessment-comingsoon/static/css/main.66378d83.css",
+    "main.js": "/peddle-assessment-comingsoon/static/js/main.a5e722b1.js",
+    "index.html": "/peddle-assessment-comingsoon/index.html",
+    "main.66378d83.css.map": "/peddle-assessment-comingsoon/static/css/main.66378d83.css.map",
+    "main.a5e722b1.js.map": "/peddle-assessment-comingsoon/static/js/main.a5e722b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66378d83.css",
+    "static/js/main.a5e722b1.js"
+  ]
+}
