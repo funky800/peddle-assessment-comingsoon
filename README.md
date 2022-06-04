@@ -14,7 +14,6 @@ Bootstrap
 ### `How to run the app`
 
 <<<<<<< HEAD
-Runs the app in the development mode.\Open [http://funky800.github.io/peddle-assessment-comingsoon] to view
 =======
 Runs the app in the development mode.\
 Open [https://funky800.github.io/peddle-assessment-comingsoon/] to view
